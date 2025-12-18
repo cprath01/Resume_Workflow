@@ -11,9 +11,10 @@ A lightweight repo for creating **tailored resumes and cover letters** per job p
 
 ## Setup
 
-1. Install VS Code [download](https://code.visualstudio.com/download) or use [vscode.dev](https://vscode.dev)
-2. Download this repo.
-3. Start from your best baseline resume/cover letter. Place those files in the correct sample folders.
+1. Install VS Code [download](https://code.visualstudio.com/download)
+2. Sign up for Github copilot for free
+3. Download this repo.
+4. Start from your best baseline resume/cover letter. Place those files in the correct sample folders.
 
 ## Workflow
 1. Open VS Code.
