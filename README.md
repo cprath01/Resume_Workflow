@@ -1,4 +1,5 @@
-# Resume Workflow — Taylored Resumes & Cover Letters
+# Resume Workflow — Tailored
+ Resumes & Cover Letters
 
 A lightweight repo for creating **tailored resumes and cover letters** per job posting. The goal is to keep a clean, repeatable workflow: store sample/source documents, create role-specific variants, and track what was submitted.
 
@@ -8,11 +9,18 @@ A lightweight repo for creating **tailored resumes and cover letters** per job p
 - Keeping reusable base content (skills, accomplishments, bullets) alongside role-specific outputs
 - Storing **sample documents** you can copy from (with personal info removed if sharing)
 
-## Recommended workflow
+## Setup
 
-1. Start from your best baseline resume/cover letter.
-2. Create a new job-specific version (copy, then edit for the role) by using CoPilot.
-3. Keep filenames descriptive so you can find what you sent later.
+1. Install VS Code [download](https://code.visualstudio.com/download) or use [vscode.dev](https://vscode.dev)
+2. Download this repo.
+3. Start from your best baseline resume/cover letter. Place those files in the correct sample folders.
+
+## Workflow
+1. Open VS Code.
+2. Open to the workflow folder
+3. Open CoPilot Chat window
+4. Prompt Copilot to 'Create a Resume and Cover Letter for the following Job Description'
+5. Past the Job Description in
 
 ### Suggested naming
 
